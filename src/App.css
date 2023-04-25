@@ -51,8 +51,7 @@
 }
 
 .App__phrase {
-  margin: 3rem 1rem;
-  padding: 4rem 2rem 2rem ;
+  margin: 6rem 1rem;
   text-align: center;
   border: 2px white solid;
   background-color: #d3d4d06c;
@@ -60,11 +59,10 @@
   font-family: "Candara";
   font-weight: bolder;
   font-size: 22px;
-  border-radius: 15px;
   box-shadow: 10px 10px #999;
   color: #ffffff;
   text-shadow: 1px 3px 0 #969696, 1px 13px 5px #aba8a8;
-  padding: 5em 2em 2em;
+  padding: 2em 4em;
   border-radius: 20px 80px;
   overflow: hidden;
   position: relative;
@@ -76,5 +74,5 @@
   position: absolute;
   bottom: 0;
   right: 0;
-  margin: 1rem
+  margin: 1rem;
 }
